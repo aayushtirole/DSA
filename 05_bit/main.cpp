@@ -57,8 +57,7 @@ int main(){
     }
 
     cout << "The binary representation is " << ans;
-    // 📤 Finally, output print kar rahe hain.
-    // Example: Input: 5 → Output: 101
+    
 
     return 0;
 }
