@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// copy ban rhi hain
 void dummy(int n) {
     n++;  // local copy me 1 add karte hain
     cout << "Inside dummy() -> n is " << n << endl;
